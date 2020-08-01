@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi My name is trace.
+I'm a student now,i like learning everything. 
+
 
 <!--
 **trace166/trace166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
